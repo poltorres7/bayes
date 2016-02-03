@@ -1,0 +1,10 @@
+True,True,Escurrimiento,Yes
+False,False,Normal,No
+True,True,Constipacion,Yes
+False,True,Escurrimiento,Yes
+False,True,Normal,No
+True,True,Escurrimiento,Yes
+True,False,Escurrimiento,Yes
+True,False,Normal,No
+True,False,Constipacion,Yes
+False,True,Constipacion,No
